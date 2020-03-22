@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mathdepaanns",
+  "private_key_id": "2762a8008f3b7b02e6d3d71d4cb289862fe51961",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZU4/Sf4hbA3Zd\nMAGiqDPKljtS1Zo5A/iY0NGiQVmA2jS7C6yFnnTewnaQRAIjsdKKJmg34AbFVKuF\n1nJXQkpF2LZFm6SMAGU2qE7HgClqwVw4EMGRsMPspD4yi73f2HBhO8ymFGvpvxRZ\n8xq3Y80AI4ydYdqCymE8HW0rPCbjshQXs+6hZO/MIXp17nl3Ky72fgAzv0mNxidB\nMvvfrnvb33bCvMmHyhbfKXUW+5mipKnG224UFSCCbcLztijmtGUHhqqBN00zsjX2\nCnS/Tg/dLIMIjwPnw6+IOPWsz7ONYmmM6IgB72lx2RdUB3MPfoX9iNAkncDBnVn/\n66/aci6PAgMBAAECggEAOORKKeubb1X2DfbZrH6oFQQwh/htLLm9/QoCtydza/3L\nchoPTlcw+1UBxF8PwinhutQseIseSAs2R8d+DsWwpIEYhPSPFkmxRJon/Rufgpaz\nvrPs9z+1OzHoSD4U2qHHdTTIp1lNf2KgzQ2I/MJB10rZiq4786rfcHxkvRWpQnQG\nuHaC1FfEqldyVkSnNg1QR20hX/fpUlAQJbELs2Bj8LLUrYHAbRByn+upue0Xd6ix\nj6TRzg+bs3s+PmrPgwM5owauPLkwJtds5k71RxW1R0HoZ4Gcum0NIk1vUET+2hcC\nXF1DNpMoD/qkBXMRvJ1HPy1fQz26B1hH4xu1eRts8QKBgQDJFxMjVbCB4VdnQM4v\nuBMaiKvtuAvq5zW83Re0LmjkLsV4ePMGWAuBkZaXU01KyHPDUew/xZccAw/yGuLN\nmLVktotH1+8ESy2AIUeCL5coN3Rk9w89Go7PAv5T2kjz636U1rKMg+sUI+8H5f+/\nfBafyCeycbKqdemf0m88PYguMQKBgQDDMaF1pB49erwLnsorPb0HtZjryek0K5Q6\nGAtI6MFq7FuZ8rNzSRXSX7RAmu0NbAEagCxuCRSte3zafQawYjot7yXEE9ock7w1\nS1wCe86sAo7xbt8oV8Ezi9mcQwIjkBQ93bKlo0T9ta+ctjiD2mm6KuiasINOHyr8\nBGbms004vwKBgQC6nFFETzb3sLi9tyQgoIAJ9Z8ngc59dYcm9z4SFad9afITNJrC\n3l3/Ja5MTB/EMHVNYu8M1z693hGkKVMkXHypM8XZLAhBQcq9xyRnKebqiVvYfnWD\nzOuOLEb8ZeuhgH79fKhBQgKbtCUUfVpyxqLwMHy2WlDlY3skt9JGYwvHYQKBgGpX\nB5eHqdHko73Q7GNSZ0Fj9cO/ZIU/mKltn/hAld8ilWTxjEIqdvD9or3vqWW+iXte\niNYJrHI27HY71wERApEz0GdaSWF4Ovjt7VqNCLM9UZLGzFy2MlNaxVsURn4JaH2r\n4j/LCzMNYHcH7xImU6NQ7RgZQe+1mz1hSI428MMRAoGBAJOC73++gEyjoHLEQB21\nRuiPgyyKOWzhC0Ca3NcVZwsUyojBKg7eimz8ZUWOn1mOkY8TGru8wzlnt3ljeTZs\nK8MNaxAOd7mlzgQe+/33H6elkktJf42bFIBxBOTr7LZ7xumKCbTCdaF/En0ykbzn\nu8zyqMpVqMyDQ8aW1WgVgirK\n-----END PRIVATE KEY-----\n",
+  "client_email": "maths-dep@mathdepaanns.iam.gserviceaccount.com",
+  "client_id": "103731763817577683080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maths-dep%40mathdepaanns.iam.gserviceaccount.com"
+}
